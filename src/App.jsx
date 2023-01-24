@@ -4,7 +4,7 @@ import { Home } from './pages/Home'
 import { Shop } from './pages/Shop'
 
 function App() {
-  
+  //https://api.pujakaitem.com/api/products
 
   return (
     <Router>
