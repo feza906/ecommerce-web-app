@@ -48,7 +48,7 @@ export const ImageSliders = ({slides}) => {
         <div style={leftArrowStyles} onClick={goToPrev} className="transform ease-in-out duration-300">←</div>
         <div style={rightArrowStyles} onClick={goToNext}>→</div>
 
-        <div style={slideStyles} className="transform ease-in-out duration-500 shadow-lg">
+        <div style={slideStyles} className="transform ease-in-out duration-500 shadow-lg xl:bg-cover">
 
         </div>
     </div>
